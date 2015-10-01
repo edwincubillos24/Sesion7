@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EjListView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre">Superman</string>
+    <string name="nombrepila">Clark Kent</string>
+    <string name="fecha">1938</string>
+</resources>
