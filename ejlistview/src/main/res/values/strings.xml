@@ -6,4 +6,5 @@
     <string name="nombre">Superman</string>
     <string name="nombrepila">Clark Kent</string>
     <string name="fecha">1938</string>
+    <string name="title_activity_super">SuperActivity</string>
 </resources>
